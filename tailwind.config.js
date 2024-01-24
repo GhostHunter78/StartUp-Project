@@ -4,6 +4,7 @@ export default {
   theme: {
     fontFamily: {
       sans: ["Onest", "sans-serif"],
+      poppins: ["Poppins", "sans-serif"],
     },
     extend: {
       colors: {
@@ -11,6 +12,7 @@ export default {
         bgYellow: "#fae36c",
         bgPurple: "#888be8",
         bgGreen: "rgb(34 197 94 / var(--tw-bg-opacity));",
+        textGray: "#3d3b48",
       },
     },
   },
